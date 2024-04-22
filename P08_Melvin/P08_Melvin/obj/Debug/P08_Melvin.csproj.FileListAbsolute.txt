@@ -1,0 +1,10 @@
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\bin\Debug\P08_Melvin.exe.config
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\bin\Debug\P08_Melvin.exe
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\bin\Debug\P08_Melvin.pdb
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\obj\Debug\P08_Melvin.csproj.AssemblyReference.cache
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\obj\Debug\P08_Melvin.Form1.resources
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\obj\Debug\P08_Melvin.Properties.Resources.resources
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\obj\Debug\P08_Melvin.csproj.GenerateResource.cache
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\obj\Debug\P08_Melvin.csproj.CoreCompileInputs.cache
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\obj\Debug\P08_Melvin.exe
+C:\Users\Mel\source\repos\P08_Melvin\P08_Melvin\obj\Debug\P08_Melvin.pdb
